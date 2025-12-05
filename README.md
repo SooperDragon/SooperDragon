@@ -1,4 +1,4 @@
-- 👋 I’m @SooperMango
+- 👋 I’m @SooperDragon
 - 👀 I’m interested in AI
 - 🐍 I’m currently learning Python
 <!---
